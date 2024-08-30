@@ -44,7 +44,7 @@
 .banner-stick-box h2{
   /* margin-bottom: 1rem; */
   font-size: 35px;
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
   color: #E8B86D;
 }
@@ -53,7 +53,9 @@
   font-weight: 300;
   font-size: 18px;
 }
-.banner-stick-box p{
+.banner-stick-box p a{
+  text-decoration: none;
+  color: white;
   background-color: #E8B86D;
   display: flex;
   align-items: center;

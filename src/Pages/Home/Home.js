@@ -66,10 +66,10 @@ const Home = (props) => {
             <Banner />
             <Bbottom/>
             <About />
-            <Overview />
-            <Amenities/>
+            {/* <Overview /> */}
             <Walkthrough />
             <Highlights />
+            <Amenities/>
             <Plans/>
             <HomePlan />
         </div>
